@@ -12,7 +12,7 @@ Always open to new challenges, meaningful collaboration, and projects that deman
 
 ✨ Technical Skills ✨
 
-- **Languages:** Python, C#, JavaScript, Java, SQL  
+- **Languages:** Python, Tensorflow, C#, JavaScript, Java, SQL  
 - **Technologies:** AWS, Git, Node.js, React, HTML/CSS  
 - **Tools:** Jupyter, VSCode, Tableau, Postman, GitHub  
 - **Domains:** Machine Learning, Deep Learning, Data Analytics, Web Dev, Automation  
