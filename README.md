@@ -1,6 +1,6 @@
 ⚡ Jyoshika Barathimogan ⚡
 
-**Code. Create. Crash.**  
+**Code. Crash. Crash.**  
 
 Student at NTU, pursuing a degree in *Artificial Intelligence and Society*. 
 
